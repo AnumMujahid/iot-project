@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div>
-      <Sidebar/>
+      <Sidebar />
       {/* {bpm?.map((bpm_) => (
         <p>
           <span>{bpm_}</span>
