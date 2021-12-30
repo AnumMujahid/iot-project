@@ -11,11 +11,10 @@ import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
 import InboxIcon from '@mui/icons-material/MoveToInbox';
 import MailIcon from '@mui/icons-material/Mail';
-import ChartTest from './ChartTest';
-
+import { Link } from 'react-router-dom';
 const drawerWidth = 200;
 
-export default function Sidebar() {
+export default function Sidebar(props) {
   return (
     <Box sx={{ display: 'flex' }}>
       <CssBaseline />
@@ -46,12 +45,14 @@ export default function Sidebar() {
         <Divider />
         <List>
           {['All mail', 'Trash', 'Spam'].map((text, index) => (
-            <ListItem button key={text}>
-              <ListItemIcon>
-                {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-              </ListItemIcon>
-              <ListItemText primary={text} />
-            </ListItem>
+            <Link to="/sleep">
+              <ListItem button key={text}>
+                <ListItemIcon>
+                  {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
+                </ListItemIcon>
+                <ListItemText primary={text} />
+              </ListItem>
+            </Link>
           ))}
         </List>
       </Drawer>
@@ -75,7 +76,7 @@ export default function Sidebar() {
           lorem. Velit sed ullamcorper morbi tincidunt. Lorem donec massa sapien
           faucibus et molestie ac.
         </Typography>
-        <ChartTest />
+        {props.children}
         <Typography paragraph>
           Consequat mauris nunc congue nisi vitae suscipit. Fringilla est
           ullamcorper eget nulla facilisi etiam dignissim diam. Pulvinar
