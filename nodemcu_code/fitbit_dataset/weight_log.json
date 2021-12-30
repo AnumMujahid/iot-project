@@ -1,0 +1,672 @@
+[
+  {
+    "Id": 1503960366,
+    "Date": "5/2/2016 11:59:59 PM",
+    "WeightKg": 52.5999984741211,
+    "WeightPounds": 115.963146545323,
+    "Fat": 22,
+    "BMI": 22.6499996185303,
+    "IsManualReport": "True",
+    "LogId": 1462233599000
+  },
+  {
+    "Id": 1503960366,
+    "Date": "5/3/2016 11:59:59 PM",
+    "WeightKg": 52.5999984741211,
+    "WeightPounds": 115.963146545323,
+    "Fat": "",
+    "BMI": 22.6499996185303,
+    "IsManualReport": "True",
+    "LogId": 1462319999000
+  },
+  {
+    "Id": 1927972279,
+    "Date": "4/13/2016 1:08:52 AM",
+    "WeightKg": 133.5,
+    "WeightPounds": 294.317120016975,
+    "Fat": "",
+    "BMI": 47.5400009155273,
+    "IsManualReport": "False",
+    "LogId": 1460509732000
+  },
+  {
+    "Id": 2873212765,
+    "Date": "4/21/2016 11:59:59 PM",
+    "WeightKg": 56.7000007629395,
+    "WeightPounds": 125.002104340889,
+    "Fat": "",
+    "BMI": 21.4500007629395,
+    "IsManualReport": "True",
+    "LogId": 1461283199000
+  },
+  {
+    "Id": 2873212765,
+    "Date": "5/12/2016 11:59:59 PM",
+    "WeightKg": 57.2999992370605,
+    "WeightPounds": 126.324874550011,
+    "Fat": "",
+    "BMI": 21.6900005340576,
+    "IsManualReport": "True",
+    "LogId": 1463097599000
+  },
+  {
+    "Id": 4319703577,
+    "Date": "4/17/2016 11:59:59 PM",
+    "WeightKg": 72.4000015258789,
+    "WeightPounds": 159.614681185927,
+    "Fat": 25,
+    "BMI": 27.4500007629395,
+    "IsManualReport": "True",
+    "LogId": 1460937599000
+  },
+  {
+    "Id": 4319703577,
+    "Date": "5/4/2016 11:59:59 PM",
+    "WeightKg": 72.3000030517578,
+    "WeightPounds": 159.394222287729,
+    "Fat": "",
+    "BMI": 27.3799991607666,
+    "IsManualReport": "True",
+    "LogId": 1462406399000
+  },
+  {
+    "Id": 4558609924,
+    "Date": "4/18/2016 11:59:59 PM",
+    "WeightKg": 69.6999969482422,
+    "WeightPounds": 153.662190014971,
+    "Fat": "",
+    "BMI": 27.25,
+    "IsManualReport": "True",
+    "LogId": 1461023999000
+  },
+  {
+    "Id": 4558609924,
+    "Date": "4/25/2016 11:59:59 PM",
+    "WeightKg": 70.3000030517578,
+    "WeightPounds": 154.984977044029,
+    "Fat": "",
+    "BMI": 27.4599990844727,
+    "IsManualReport": "True",
+    "LogId": 1461628799000
+  },
+  {
+    "Id": 4558609924,
+    "Date": "5/1/2016 11:59:59 PM",
+    "WeightKg": 69.9000015258789,
+    "WeightPounds": 154.103124631302,
+    "Fat": "",
+    "BMI": 27.3199996948242,
+    "IsManualReport": "True",
+    "LogId": 1462147199000
+  },
+  {
+    "Id": 4558609924,
+    "Date": "5/2/2016 11:59:59 PM",
+    "WeightKg": 69.1999969482422,
+    "WeightPounds": 152.559878704046,
+    "Fat": "",
+    "BMI": 27.0400009155273,
+    "IsManualReport": "True",
+    "LogId": 1462233599000
+  },
+  {
+    "Id": 4558609924,
+    "Date": "5/9/2016 11:59:59 PM",
+    "WeightKg": 69.0999984741211,
+    "WeightPounds": 152.339419805848,
+    "Fat": "",
+    "BMI": 27,
+    "IsManualReport": "True",
+    "LogId": 1462838399000
+  },
+  {
+    "Id": 5577150313,
+    "Date": "4/17/2016 9:17:55 AM",
+    "WeightKg": 90.6999969482422,
+    "WeightPounds": 199.959265073821,
+    "Fat": "",
+    "BMI": 28,
+    "IsManualReport": "False",
+    "LogId": 1460884675000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/12/2016 11:59:59 PM",
+    "WeightKg": 62.5,
+    "WeightPounds": 137.788913865625,
+    "Fat": "",
+    "BMI": 24.3899993896484,
+    "IsManualReport": "True",
+    "LogId": 1460505599000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/13/2016 11:59:59 PM",
+    "WeightKg": 62.0999984741211,
+    "WeightPounds": 136.907061452898,
+    "Fat": "",
+    "BMI": 24.2399997711182,
+    "IsManualReport": "True",
+    "LogId": 1460591999000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/14/2016 11:59:59 PM",
+    "WeightKg": 61.7000007629395,
+    "WeightPounds": 136.025217450139,
+    "Fat": "",
+    "BMI": 24.1000003814697,
+    "IsManualReport": "True",
+    "LogId": 1460678399000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/15/2016 11:59:59 PM",
+    "WeightKg": 61.5,
+    "WeightPounds": 135.584291243775,
+    "Fat": "",
+    "BMI": 24,
+    "IsManualReport": "True",
+    "LogId": 1460764799000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/16/2016 11:59:59 PM",
+    "WeightKg": 62,
+    "WeightPounds": 136.6866025547,
+    "Fat": "",
+    "BMI": 24.2099990844727,
+    "IsManualReport": "True",
+    "LogId": 1460851199000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/17/2016 11:59:59 PM",
+    "WeightKg": 61.4000015258789,
+    "WeightPounds": 135.363832345577,
+    "Fat": "",
+    "BMI": 23.9599990844727,
+    "IsManualReport": "True",
+    "LogId": 1460937599000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/18/2016 11:59:59 PM",
+    "WeightKg": 61.2000007629395,
+    "WeightPounds": 134.922906139214,
+    "Fat": "",
+    "BMI": 23.8899993896484,
+    "IsManualReport": "True",
+    "LogId": 1461023999000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/19/2016 11:59:59 PM",
+    "WeightKg": 61.4000015258789,
+    "WeightPounds": 135.363832345577,
+    "Fat": "",
+    "BMI": 23.9599990844727,
+    "IsManualReport": "True",
+    "LogId": 1461110399000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/20/2016 11:59:59 PM",
+    "WeightKg": 61.7000007629395,
+    "WeightPounds": 136.025217450139,
+    "Fat": "",
+    "BMI": 24.1000003814697,
+    "IsManualReport": "True",
+    "LogId": 1461196799000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/21/2016 11:59:59 PM",
+    "WeightKg": 61.4000015258789,
+    "WeightPounds": 135.363832345577,
+    "Fat": "",
+    "BMI": 23.9599990844727,
+    "IsManualReport": "True",
+    "LogId": 1461283199000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/22/2016 11:59:59 PM",
+    "WeightKg": 61.4000015258789,
+    "WeightPounds": 135.363832345577,
+    "Fat": "",
+    "BMI": 23.9599990844727,
+    "IsManualReport": "True",
+    "LogId": 1461369599000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/23/2016 11:59:59 PM",
+    "WeightKg": 61.5,
+    "WeightPounds": 135.584291243775,
+    "Fat": "",
+    "BMI": 24,
+    "IsManualReport": "True",
+    "LogId": 1461455999000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/24/2016 11:59:59 PM",
+    "WeightKg": 61.5,
+    "WeightPounds": 135.584291243775,
+    "Fat": "",
+    "BMI": 24,
+    "IsManualReport": "True",
+    "LogId": 1461542399000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/25/2016 11:59:59 PM",
+    "WeightKg": 61.7000007629395,
+    "WeightPounds": 136.025217450139,
+    "Fat": "",
+    "BMI": 24.1000003814697,
+    "IsManualReport": "True",
+    "LogId": 1461628799000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/27/2016 11:59:59 PM",
+    "WeightKg": 61.2000007629395,
+    "WeightPounds": 134.922906139214,
+    "Fat": "",
+    "BMI": 23.8899993896484,
+    "IsManualReport": "True",
+    "LogId": 1461801599000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/28/2016 11:59:59 PM",
+    "WeightKg": 61.2000007629395,
+    "WeightPounds": 134.922906139214,
+    "Fat": "",
+    "BMI": 23.8899993896484,
+    "IsManualReport": "True",
+    "LogId": 1461887999000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/29/2016 11:59:59 PM",
+    "WeightKg": 61.4000015258789,
+    "WeightPounds": 135.363832345577,
+    "Fat": "",
+    "BMI": 23.9599990844727,
+    "IsManualReport": "True",
+    "LogId": 1461974399000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "4/30/2016 11:59:59 PM",
+    "WeightKg": 61,
+    "WeightPounds": 134.48197993285,
+    "Fat": "",
+    "BMI": 23.8199996948242,
+    "IsManualReport": "True",
+    "LogId": 1462060799000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/1/2016 11:59:59 PM",
+    "WeightKg": 61.7000007629395,
+    "WeightPounds": 136.025217450139,
+    "Fat": "",
+    "BMI": 24.1000003814697,
+    "IsManualReport": "True",
+    "LogId": 1462147199000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/2/2016 11:59:59 PM",
+    "WeightKg": 61.5,
+    "WeightPounds": 135.584291243775,
+    "Fat": "",
+    "BMI": 24,
+    "IsManualReport": "True",
+    "LogId": 1462233599000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/3/2016 11:59:59 PM",
+    "WeightKg": 61,
+    "WeightPounds": 134.48197993285,
+    "Fat": "",
+    "BMI": 23.8199996948242,
+    "IsManualReport": "True",
+    "LogId": 1462319999000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/4/2016 11:59:59 PM",
+    "WeightKg": 61.0999984741211,
+    "WeightPounds": 134.702438831048,
+    "Fat": "",
+    "BMI": 23.8500003814697,
+    "IsManualReport": "True",
+    "LogId": 1462406399000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/5/2016 11:59:59 PM",
+    "WeightKg": 61.2999992370605,
+    "WeightPounds": 135.143365037411,
+    "Fat": "",
+    "BMI": 23.9300003051758,
+    "IsManualReport": "True",
+    "LogId": 1462492799000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/6/2016 11:59:59 PM",
+    "WeightKg": 61.5,
+    "WeightPounds": 135.584291243775,
+    "Fat": "",
+    "BMI": 24,
+    "IsManualReport": "True",
+    "LogId": 1462579199000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/7/2016 11:59:59 PM",
+    "WeightKg": 61.2000007629395,
+    "WeightPounds": 134.922906139214,
+    "Fat": "",
+    "BMI": 23.8899993896484,
+    "IsManualReport": "True",
+    "LogId": 1462665599000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/8/2016 11:59:59 PM",
+    "WeightKg": 61.2000007629395,
+    "WeightPounds": 134.922906139214,
+    "Fat": "",
+    "BMI": 23.8899993896484,
+    "IsManualReport": "True",
+    "LogId": 1462751999000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/9/2016 11:59:59 PM",
+    "WeightKg": 62.4000015258789,
+    "WeightPounds": 137.568454967427,
+    "Fat": "",
+    "BMI": 24.3500003814697,
+    "IsManualReport": "True",
+    "LogId": 1462838399000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/10/2016 11:59:59 PM",
+    "WeightKg": 62.0999984741211,
+    "WeightPounds": 136.907061452898,
+    "Fat": "",
+    "BMI": 24.2399997711182,
+    "IsManualReport": "True",
+    "LogId": 1462924799000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/11/2016 11:59:59 PM",
+    "WeightKg": 61.9000015258789,
+    "WeightPounds": 136.466143656502,
+    "Fat": "",
+    "BMI": 24.1700000762939,
+    "IsManualReport": "True",
+    "LogId": 1463011199000
+  },
+  {
+    "Id": 6962181067,
+    "Date": "5/12/2016 11:59:59 PM",
+    "WeightKg": 61.9000015258789,
+    "WeightPounds": 136.466143656502,
+    "Fat": "",
+    "BMI": 24.1700000762939,
+    "IsManualReport": "True",
+    "LogId": 1463097599000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/12/2016 6:47:11 AM",
+    "WeightKg": 85.8000030517578,
+    "WeightPounds": 189.156627682704,
+    "Fat": "",
+    "BMI": 25.6800003051758,
+    "IsManualReport": "False",
+    "LogId": 1460443631000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/13/2016 6:55:00 AM",
+    "WeightKg": 84.9000015258789,
+    "WeightPounds": 187.172463959052,
+    "Fat": "",
+    "BMI": 25.4099998474121,
+    "IsManualReport": "False",
+    "LogId": 1460530500000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/14/2016 6:48:43 AM",
+    "WeightKg": 84.5,
+    "WeightPounds": 186.290611546325,
+    "Fat": "",
+    "BMI": 25.3099994659424,
+    "IsManualReport": "False",
+    "LogId": 1460616523000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/16/2016 1:39:25 PM",
+    "WeightKg": 85.5,
+    "WeightPounds": 188.495234168175,
+    "Fat": "",
+    "BMI": 25.5900001525879,
+    "IsManualReport": "False",
+    "LogId": 1460813965000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/18/2016 6:51:14 AM",
+    "WeightKg": 85.8000030517578,
+    "WeightPounds": 189.156627682704,
+    "Fat": "",
+    "BMI": 25.6800003051758,
+    "IsManualReport": "False",
+    "LogId": 1460962274000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/19/2016 6:39:31 AM",
+    "WeightKg": 85.3000030517578,
+    "WeightPounds": 188.054316371779,
+    "Fat": "",
+    "BMI": 25.5300006866455,
+    "IsManualReport": "False",
+    "LogId": 1461047971000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/20/2016 6:44:54 AM",
+    "WeightKg": 84.9000015258789,
+    "WeightPounds": 187.172463959052,
+    "Fat": "",
+    "BMI": 25.4099998474121,
+    "IsManualReport": "False",
+    "LogId": 1461134694000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/21/2016 6:50:27 AM",
+    "WeightKg": 84.5,
+    "WeightPounds": 186.290611546325,
+    "Fat": "",
+    "BMI": 25.2900009155273,
+    "IsManualReport": "False",
+    "LogId": 1461221427000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/23/2016 7:22:28 AM",
+    "WeightKg": 85.5,
+    "WeightPounds": 188.495234168175,
+    "Fat": "",
+    "BMI": 25.5900001525879,
+    "IsManualReport": "False",
+    "LogId": 1461396148000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/24/2016 7:38:05 AM",
+    "WeightKg": 85.5,
+    "WeightPounds": 188.495234168175,
+    "Fat": "",
+    "BMI": 25.5900001525879,
+    "IsManualReport": "False",
+    "LogId": 1461483485000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/25/2016 6:40:16 AM",
+    "WeightKg": 85.4000015258789,
+    "WeightPounds": 188.274775269977,
+    "Fat": "",
+    "BMI": 25.5599994659424,
+    "IsManualReport": "False",
+    "LogId": 1461566416000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/26/2016 6:50:27 AM",
+    "WeightKg": 85.0999984741211,
+    "WeightPounds": 187.613381755448,
+    "Fat": "",
+    "BMI": 25.4899997711182,
+    "IsManualReport": "False",
+    "LogId": 1461653427000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/27/2016 6:51:05 AM",
+    "WeightKg": 85.4000015258789,
+    "WeightPounds": 188.274775269977,
+    "Fat": "",
+    "BMI": 25.5599994659424,
+    "IsManualReport": "False",
+    "LogId": 1461739865000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/28/2016 6:50:03 AM",
+    "WeightKg": 85.0999984741211,
+    "WeightPounds": 187.613381755448,
+    "Fat": "",
+    "BMI": 25.4899997711182,
+    "IsManualReport": "False",
+    "LogId": 1461826203000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/29/2016 6:49:55 AM",
+    "WeightKg": 84.9000015258789,
+    "WeightPounds": 187.172463959052,
+    "Fat": "",
+    "BMI": 25.4099998474121,
+    "IsManualReport": "False",
+    "LogId": 1461912595000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "4/30/2016 7:49:03 AM",
+    "WeightKg": 85.5,
+    "WeightPounds": 188.495234168175,
+    "Fat": "",
+    "BMI": 25.5900001525879,
+    "IsManualReport": "False",
+    "LogId": 1462002543000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "5/1/2016 8:47:49 AM",
+    "WeightKg": 85.3000030517578,
+    "WeightPounds": 188.054316371779,
+    "Fat": "",
+    "BMI": 25.5300006866455,
+    "IsManualReport": "False",
+    "LogId": 1462092469000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "5/3/2016 6:49:41 AM",
+    "WeightKg": 84.9000015258789,
+    "WeightPounds": 187.172463959052,
+    "Fat": "",
+    "BMI": 25.4099998474121,
+    "IsManualReport": "False",
+    "LogId": 1462258181000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "5/4/2016 6:48:22 AM",
+    "WeightKg": 84.4000015258789,
+    "WeightPounds": 186.070152648127,
+    "Fat": "",
+    "BMI": 25.2600002288818,
+    "IsManualReport": "False",
+    "LogId": 1462344502000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "5/6/2016 6:43:35 AM",
+    "WeightKg": 85,
+    "WeightPounds": 187.39292285725,
+    "Fat": "",
+    "BMI": 25.4400005340576,
+    "IsManualReport": "False",
+    "LogId": 1462517015000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "5/8/2016 7:35:53 AM",
+    "WeightKg": 85.4000015258789,
+    "WeightPounds": 188.274775269977,
+    "Fat": "",
+    "BMI": 25.5599994659424,
+    "IsManualReport": "False",
+    "LogId": 1462692953000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "5/9/2016 6:39:44 AM",
+    "WeightKg": 85.5,
+    "WeightPounds": 188.495234168175,
+    "Fat": "",
+    "BMI": 25.6100006103516,
+    "IsManualReport": "False",
+    "LogId": 1462775984000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "5/11/2016 6:51:47 AM",
+    "WeightKg": 85.4000015258789,
+    "WeightPounds": 188.274775269977,
+    "Fat": "",
+    "BMI": 25.5599994659424,
+    "IsManualReport": "False",
+    "LogId": 1462949507000
+  },
+  {
+    "Id": 8877689391,
+    "Date": "5/12/2016 6:42:53 AM",
+    "WeightKg": 84,
+    "WeightPounds": 185.1883002354,
+    "Fat": "",
+    "BMI": 25.1399993896484,
+    "IsManualReport": "False",
+    "LogId": 1463035373000
+  }
+]

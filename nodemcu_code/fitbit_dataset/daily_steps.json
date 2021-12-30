@@ -1,0 +1,4702 @@
+[
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 13162
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 10735
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 10460
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 9762
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 12669
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 9705
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 13019
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 15506
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 10544
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 9819
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 12764
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 14371
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 10039
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 15355
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 13755
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 18134
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 13154
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 11181
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 14673
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 10602
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 14727
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 15103
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 11100
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 14070
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 12159
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 11992
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 10060
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 12022
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 12207
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 12770
+  },
+  {
+    "Id": 1503960366,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 8163
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 7007
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 9107
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 1510
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 5370
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 6175
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 10536
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 2916
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 4974
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 6349
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 4026
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 8538
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 6076
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 6497
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 2826
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 8367
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 2759
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 2390
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 6474
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 36019
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 7155
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 2100
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 2193
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 2470
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 1727
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 2104
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 3427
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 1732
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 2969
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 3134
+  },
+  {
+    "Id": 1624580081,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 2971
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 10694
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 8001
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 11037
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 5263
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 15300
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 8757
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 7132
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 11256
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 2436
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 1223
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 3673
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 6637
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 3321
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 3580
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 9919
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 3032
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 9405
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 3176
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 18213
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 6132
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 3758
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 12850
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 2309
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 4363
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 9787
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 13372
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 6724
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 6643
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 9167
+  },
+  {
+    "Id": 1644430081,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 1329
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 6697
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 4929
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 7937
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 3844
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 3414
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 4525
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 4597
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 197
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 8
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 8054
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 5372
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 3570
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 4
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 6907
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 4920
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 4014
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 2573
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 4059
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 2080
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 2237
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 44
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1844505072,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 678
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 356
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 2163
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 980
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 244
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 149
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 2945
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 2090
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 152
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 3761
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 1675
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 2704
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 3790
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 1326
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 1786
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 2091
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 1510
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 1927972279,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 11875
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 12024
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 10690
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 11034
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 10100
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 15112
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 14131
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 11548
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 15112
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 12453
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 12954
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 6001
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 13481
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 11369
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 10119
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 10159
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 10140
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 10245
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 18387
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 10538
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 10379
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 12183
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 11768
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 11895
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 10227
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 6708
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 3292
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 13379
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 12798
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 13272
+  },
+  {
+    "Id": 2022484408,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 9117
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 4414
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 4993
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 3335
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 3821
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 2547
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 838
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 3325
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 2424
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 7222
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 2467
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 2915
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 12357
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 3490
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 6017
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 5933
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 6088
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 6375
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 7604
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 4729
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 3609
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 7018
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 5992
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 6564
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 12167
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 8198
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 4193
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 5528
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 10685
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 254
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 8580
+  },
+  {
+    "Id": 2026352035,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 8891
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 10725
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 7275
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 3973
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 5205
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 5057
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 6198
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 6559
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 5997
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 7192
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 3404
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 5583
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 5079
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 4165
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 3588
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 3409
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 1715
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 1532
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 924
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 4571
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 772
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 3634
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 7443
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 1201
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 5202
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 4878
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 7379
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 5161
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 3090
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 6227
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 6424
+  },
+  {
+    "Id": 2320127002,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 2661
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 10113
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 10352
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 10129
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 10465
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 22244
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 5472
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 8247
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 6711
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 10999
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 10080
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 7804
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 16901
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 9471
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 9482
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 5980
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 11423
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 5439
+  },
+  {
+    "Id": 2347167796,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 42
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 8796
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 7618
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 7910
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 8482
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 9685
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 2524
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 7762
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 7948
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 9202
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 8859
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 7286
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 9317
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 6873
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 7373
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 8242
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 3516
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 7913
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 7365
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 8452
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 7399
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 7525
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 7412
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 8278
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 8314
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 7063
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 4940
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 8168
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 7726
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 8275
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 6440
+  },
+  {
+    "Id": 2873212765,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 7566
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 4747
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 9715
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 8844
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 7451
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 6905
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 8199
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 6798
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 7711
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 4880
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 8857
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 3843
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 7396
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 6731
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 5995
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 8283
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 7904
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 5512
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 9135
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 5250
+  },
+  {
+    "Id": 3372868164,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 3077
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 8856
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 10035
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 7641
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 9010
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 13459
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 10415
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 11663
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 12414
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 11658
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 6093
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 8911
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 12058
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 14112
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 11177
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 11388
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 7193
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 7114
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 10645
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 13238
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 10414
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 16520
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 14335
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 13559
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 12312
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 11677
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 11550
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 13585
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 14687
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 13072
+  },
+  {
+    "Id": 3977333714,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 746
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 8539
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 108
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 1882
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 1982
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 16
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 62
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 475
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 4496
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 10252
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 11728
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 4369
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 6132
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 5862
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 4556
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 5546
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 3689
+  },
+  {
+    "Id": 4020332650,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 590
+  },
+  {
+    "Id": 4057192912,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 5394
+  },
+  {
+    "Id": 4057192912,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 5974
+  },
+  {
+    "Id": 4057192912,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4057192912,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 3984
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 7753
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 8204
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 10210
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 5664
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 4744
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 29
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 2276
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 8925
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 8954
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 3702
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 4500
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 4935
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 4081
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 9259
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 9899
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 10780
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 10817
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 7990
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 8221
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 1251
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 9261
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 9648
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 10429
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 13658
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 9524
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 7937
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 3672
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 10378
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 9487
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 9129
+  },
+  {
+    "Id": 4319703577,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 17
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 10122
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 10993
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 8863
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 8758
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 6580
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 4660
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 11009
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 10181
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 10553
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 10055
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 12139
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 13236
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 10243
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 12961
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 9461
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 11193
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 10074
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 9232
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 12533
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 10255
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 10096
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 12727
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 12375
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 9603
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 13175
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 22770
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 17298
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 10218
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 10299
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 10201
+  },
+  {
+    "Id": 4388161847,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 3369
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 3276
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 2961
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 3974
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 7198
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 3945
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 2268
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 6155
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 2064
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 2072
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 3809
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 6831
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 4363
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 5002
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 3385
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 6326
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 7243
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 4493
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 4676
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 6222
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 5232
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 6910
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 7502
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 2923
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 3800
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 4514
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 5183
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 7303
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 5275
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 3915
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 9105
+  },
+  {
+    "Id": 4445114986,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 768
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 5135
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 4978
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 6799
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 7795
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 7289
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 9634
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 8940
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 5401
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 4803
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 13743
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 9601
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 6890
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 8563
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 8095
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 9148
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 9557
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 9451
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 7833
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 10319
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 3428
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 7891
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 5267
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 5232
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 10611
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 3755
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 8237
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 6543
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 11451
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 6435
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 9108
+  },
+  {
+    "Id": 4558609924,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 6307
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 7213
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 6877
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 7860
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 6506
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 11140
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 12692
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 9105
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 6708
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 8793
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 6530
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 1664
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 15126
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 15050
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 9167
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 6108
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 7047
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 9023
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 9930
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 10144
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 7245
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 9454
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 8161
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 8614
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 6943
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 14370
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 12857
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 8232
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 10613
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 9810
+  },
+  {
+    "Id": 4702921684,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 2752
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 11596
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 4832
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 17022
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 16556
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 5771
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 655
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 3727
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 15482
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 2713
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 12346
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 11682
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 4112
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 1807
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 10946
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 11886
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 10538
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 11393
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 12764
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 1202
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 5164
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 9769
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 12848
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 4249
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 14331
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 9632
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 1868
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 6083
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 11611
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 16358
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 4926
+  },
+  {
+    "Id": 5553957443,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 3121
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 8135
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 5077
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 8596
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 12087
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 14269
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 12231
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 9893
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 12574
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 8330
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 10830
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 9172
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 7638
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 15764
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 6393
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 5325
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 6805
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 9841
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 7924
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 12363
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 13368
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 7439
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 11045
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 5206
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 7550
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 4950
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 3421
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 8869
+  },
+  {
+    "Id": 5577150313,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 4038
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 14019
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 14450
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 7150
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 5153
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 11135
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 10449
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 19542
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 8206
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 11495
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 7623
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 9543
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 9411
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 3403
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 9592
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 6987
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 8915
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 4933
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 2997
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 9799
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 3365
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 7336
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 7328
+  },
+  {
+    "Id": 6117666160,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 4477
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 4562
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 7142
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 7671
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 9501
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 8301
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 7851
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 6885
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 7142
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 6361
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 6238
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 5896
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 7802
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 5565
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 5731
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 6744
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 9837
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 6781
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 6047
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 5832
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 6339
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 6116
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 5510
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 7706
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 6277
+  },
+  {
+    "Id": 6290855005,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 4053
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 5162
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 1282
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 4732
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 2497
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 8294
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 10771
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 637
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 2153
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 6474
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 7091
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 703
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 2503
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 2487
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 9
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 4697
+  },
+  {
+    "Id": 6775888955,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 1967
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 10199
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 5652
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 1551
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 5563
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 13217
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 10145
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 11404
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 10742
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 13928
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 11835
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 10725
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 20031
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 5029
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 13239
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 10433
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 10320
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 12627
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 10762
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 10081
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 5454
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 12912
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 12109
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 10147
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 10524
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 5908
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 6815
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 4188
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 12342
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 15448
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 6722
+  },
+  {
+    "Id": 6962181067,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 3587
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 14172
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 12862
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 11179
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 5273
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 4631
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 8059
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 14816
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 14194
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 15566
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 13744
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 15299
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 8093
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 11085
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 18229
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 15090
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 13541
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 15128
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 20067
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 3761
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 5600
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 13041
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 14510
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 15010
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 11459
+  },
+  {
+    "Id": 7007744171,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 11317
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 5813
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 9123
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 8585
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 31
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 9827
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 10688
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 14365
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 9469
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 9753
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 2817
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 3520
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 10091
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 10387
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 11107
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 11584
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 7881
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 14560
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 12390
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 10052
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 10288
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 10988
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 8564
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 12461
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 12827
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 10677
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 13566
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 14433
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 9572
+  },
+  {
+    "Id": 7086361926,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 3789
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 18060
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 16433
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 20159
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 20669
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 14549
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 18827
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 17076
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 15929
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 15108
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 16057
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 10520
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 22359
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 22988
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 20500
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 12685
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 12422
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 15447
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 12315
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 7135
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 1170
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 1969
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 15484
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 14581
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 14990
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 13953
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 19769
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 22026
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 12465
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 14810
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 12209
+  },
+  {
+    "Id": 8053475328,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 4998
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 9033
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 8053
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 5234
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 2672
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 9256
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 10204
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 5151
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 4212
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 6466
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 11268
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 2824
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 9282
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 8905
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 6829
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 4562
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 10232
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 2718
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 6260
+  },
+  {
+    "Id": 8253242879,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 7626
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 12386
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 13318
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 14461
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 11207
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 2132
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 13630
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 13070
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 9388
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 15148
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 12200
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 5709
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 3703
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 12405
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 16208
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 7359
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 5417
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 6175
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 2946
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 11419
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 6064
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 8712
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 7875
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 8567
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 7045
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 4468
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 2943
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 8382
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 6582
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 9143
+  },
+  {
+    "Id": 8378563200,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 4561
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 5014
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 5571
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 3135
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 3430
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 5319
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 3008
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 3864
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 5697
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 5273
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 8538
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 8687
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 9423
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 8286
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 4503
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 10499
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 12474
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 6174
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 15168
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 10085
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 4512
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 8469
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 12015
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 3588
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 12427
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 5843
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 6117
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 9217
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 9877
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 8240
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 8701
+  },
+  {
+    "Id": 8583815059,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 2564
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 1320
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 1219
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 2483
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 244
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 3147
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 144
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 4068
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 5245
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 400
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 1321
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 1758
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 6157
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 8360
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 7174
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 1619
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 1831
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 2421
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 2283
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8792009665,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 0
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/12/2016",
+    "StepTotal": 23186
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/13/2016",
+    "StepTotal": 15337
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/14/2016",
+    "StepTotal": 21129
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/15/2016",
+    "StepTotal": 13422
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/16/2016",
+    "StepTotal": 29326
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/17/2016",
+    "StepTotal": 15118
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/18/2016",
+    "StepTotal": 11423
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/19/2016",
+    "StepTotal": 18785
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/20/2016",
+    "StepTotal": 19948
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/21/2016",
+    "StepTotal": 19377
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/22/2016",
+    "StepTotal": 18258
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/23/2016",
+    "StepTotal": 11200
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/24/2016",
+    "StepTotal": 16674
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/25/2016",
+    "StepTotal": 12986
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/26/2016",
+    "StepTotal": 11101
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/27/2016",
+    "StepTotal": 23629
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/28/2016",
+    "StepTotal": 14890
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/29/2016",
+    "StepTotal": 9733
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "4/30/2016",
+    "StepTotal": 27745
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/1/2016",
+    "StepTotal": 10930
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/2/2016",
+    "StepTotal": 4790
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/3/2016",
+    "StepTotal": 10818
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/4/2016",
+    "StepTotal": 18193
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/5/2016",
+    "StepTotal": 14055
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/6/2016",
+    "StepTotal": 21727
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/7/2016",
+    "StepTotal": 12332
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/8/2016",
+    "StepTotal": 10686
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/9/2016",
+    "StepTotal": 20226
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/10/2016",
+    "StepTotal": 10733
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/11/2016",
+    "StepTotal": 21420
+  },
+  {
+    "Id": 8877689391,
+    "ActivityDay": "5/12/2016",
+    "StepTotal": 8064
+  }
+]

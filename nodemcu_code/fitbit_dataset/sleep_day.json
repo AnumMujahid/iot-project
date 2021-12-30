@@ -1,0 +1,2893 @@
+[
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 327,
+    "TotalTimeInBed": 346
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 384,
+    "TotalTimeInBed": 407
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 412,
+    "TotalTimeInBed": 442
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 340,
+    "TotalTimeInBed": 367
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 700,
+    "TotalTimeInBed": 712
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 304,
+    "TotalTimeInBed": 320
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 360,
+    "TotalTimeInBed": 377
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 325,
+    "TotalTimeInBed": 364
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 361,
+    "TotalTimeInBed": 384
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 430,
+    "TotalTimeInBed": 449
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 277,
+    "TotalTimeInBed": 323
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 245,
+    "TotalTimeInBed": 274
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 366,
+    "TotalTimeInBed": 393
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 341,
+    "TotalTimeInBed": 354
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 404,
+    "TotalTimeInBed": 425
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 369,
+    "TotalTimeInBed": 396
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 277,
+    "TotalTimeInBed": 309
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 273,
+    "TotalTimeInBed": 296
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 247,
+    "TotalTimeInBed": 264
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 334,
+    "TotalTimeInBed": 367
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 331,
+    "TotalTimeInBed": 349
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 594,
+    "TotalTimeInBed": 611
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 338,
+    "TotalTimeInBed": 342
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 383,
+    "TotalTimeInBed": 403
+  },
+  {
+    "Id": 1503960366,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 285,
+    "TotalTimeInBed": 306
+  },
+  {
+    "Id": 1644430081,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 119,
+    "TotalTimeInBed": 127
+  },
+  {
+    "Id": 1644430081,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 124,
+    "TotalTimeInBed": 142
+  },
+  {
+    "Id": 1644430081,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 796,
+    "TotalTimeInBed": 961
+  },
+  {
+    "Id": 1644430081,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 137,
+    "TotalTimeInBed": 154
+  },
+  {
+    "Id": 1844505072,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 644,
+    "TotalTimeInBed": 961
+  },
+  {
+    "Id": 1844505072,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 722,
+    "TotalTimeInBed": 961
+  },
+  {
+    "Id": 1844505072,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 590,
+    "TotalTimeInBed": 961
+  },
+  {
+    "Id": 1927972279,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 3,
+    "TotalMinutesAsleep": 750,
+    "TotalTimeInBed": 775
+  },
+  {
+    "Id": 1927972279,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 398,
+    "TotalTimeInBed": 422
+  },
+  {
+    "Id": 1927972279,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 475,
+    "TotalTimeInBed": 499
+  },
+  {
+    "Id": 1927972279,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 296,
+    "TotalTimeInBed": 315
+  },
+  {
+    "Id": 1927972279,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 166,
+    "TotalTimeInBed": 178
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 503,
+    "TotalTimeInBed": 546
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 531,
+    "TotalTimeInBed": 565
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 545,
+    "TotalTimeInBed": 568
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 523,
+    "TotalTimeInBed": 573
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 524,
+    "TotalTimeInBed": 567
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 437,
+    "TotalTimeInBed": 498
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 498,
+    "TotalTimeInBed": 540
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 461,
+    "TotalTimeInBed": 510
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 477,
+    "TotalTimeInBed": 514
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 520,
+    "TotalTimeInBed": 545
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 522,
+    "TotalTimeInBed": 554
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 555,
+    "TotalTimeInBed": 591
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 506,
+    "TotalTimeInBed": 531
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 508,
+    "TotalTimeInBed": 545
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 513,
+    "TotalTimeInBed": 545
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 490,
+    "TotalTimeInBed": 510
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 573,
+    "TotalTimeInBed": 607
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 527,
+    "TotalTimeInBed": 546
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 511,
+    "TotalTimeInBed": 543
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 538,
+    "TotalTimeInBed": 560
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 468,
+    "TotalTimeInBed": 485
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 524,
+    "TotalTimeInBed": 548
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 511,
+    "TotalTimeInBed": 521
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 541,
+    "TotalTimeInBed": 568
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 531,
+    "TotalTimeInBed": 556
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 357,
+    "TotalTimeInBed": 380
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 523,
+    "TotalTimeInBed": 553
+  },
+  {
+    "Id": 2026352035,
+    "SleepDay": "5/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 456,
+    "TotalTimeInBed": 485
+  },
+  {
+    "Id": 2320127002,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 61,
+    "TotalTimeInBed": 69
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 467,
+    "TotalTimeInBed": 531
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 445,
+    "TotalTimeInBed": 489
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 452,
+    "TotalTimeInBed": 504
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 556,
+    "TotalTimeInBed": 602
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 500,
+    "TotalTimeInBed": 557
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 465,
+    "TotalTimeInBed": 514
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 460,
+    "TotalTimeInBed": 484
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 405,
+    "TotalTimeInBed": 461
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 374,
+    "TotalTimeInBed": 386
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 442,
+    "TotalTimeInBed": 459
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 433,
+    "TotalTimeInBed": 471
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 436,
+    "TotalTimeInBed": 490
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 448,
+    "TotalTimeInBed": 499
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 408,
+    "TotalTimeInBed": 450
+  },
+  {
+    "Id": 2347167796,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 411,
+    "TotalTimeInBed": 473
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 274,
+    "TotalTimeInBed": 469
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 295,
+    "TotalTimeInBed": 456
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 291,
+    "TotalTimeInBed": 397
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 424,
+    "TotalTimeInBed": 556
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 283,
+    "TotalTimeInBed": 510
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 381,
+    "TotalTimeInBed": 566
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 412,
+    "TotalTimeInBed": 522
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 219,
+    "TotalTimeInBed": 395
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 152,
+    "TotalTimeInBed": 305
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 332,
+    "TotalTimeInBed": 512
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 355,
+    "TotalTimeInBed": 476
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 235,
+    "TotalTimeInBed": 372
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 310,
+    "TotalTimeInBed": 526
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 262,
+    "TotalTimeInBed": 467
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 250,
+    "TotalTimeInBed": 371
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 349,
+    "TotalTimeInBed": 540
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 261,
+    "TotalTimeInBed": 423
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 333,
+    "TotalTimeInBed": 478
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 237,
+    "TotalTimeInBed": 382
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 383,
+    "TotalTimeInBed": 626
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 230,
+    "TotalTimeInBed": 384
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 292,
+    "TotalTimeInBed": 500
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 213,
+    "TotalTimeInBed": 336
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 318,
+    "TotalTimeInBed": 480
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 323,
+    "TotalTimeInBed": 512
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 237,
+    "TotalTimeInBed": 443
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 259,
+    "TotalTimeInBed": 456
+  },
+  {
+    "Id": 3977333714,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 312,
+    "TotalTimeInBed": 452
+  },
+  {
+    "Id": 4020332650,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 501,
+    "TotalTimeInBed": 541
+  },
+  {
+    "Id": 4020332650,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 77,
+    "TotalTimeInBed": 77
+  },
+  {
+    "Id": 4020332650,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 322,
+    "TotalTimeInBed": 332
+  },
+  {
+    "Id": 4020332650,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 478,
+    "TotalTimeInBed": 536
+  },
+  {
+    "Id": 4020332650,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 226,
+    "TotalTimeInBed": 248
+  },
+  {
+    "Id": 4020332650,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 385,
+    "TotalTimeInBed": 408
+  },
+  {
+    "Id": 4020332650,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 364,
+    "TotalTimeInBed": 402
+  },
+  {
+    "Id": 4020332650,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 442,
+    "TotalTimeInBed": 494
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 535,
+    "TotalTimeInBed": 557
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 465,
+    "TotalTimeInBed": 491
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 506,
+    "TotalTimeInBed": 522
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 515,
+    "TotalTimeInBed": 551
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 461,
+    "TotalTimeInBed": 498
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 523,
+    "TotalTimeInBed": 543
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 59,
+    "TotalTimeInBed": 65
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 533,
+    "TotalTimeInBed": 550
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 692,
+    "TotalTimeInBed": 722
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 467,
+    "TotalTimeInBed": 501
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 488,
+    "TotalTimeInBed": 506
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 505,
+    "TotalTimeInBed": 516
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 286,
+    "TotalTimeInBed": 307
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 497,
+    "TotalTimeInBed": 522
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 523,
+    "TotalTimeInBed": 546
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 490,
+    "TotalTimeInBed": 516
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 484,
+    "TotalTimeInBed": 500
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 478,
+    "TotalTimeInBed": 506
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 474,
+    "TotalTimeInBed": 512
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 450,
+    "TotalTimeInBed": 491
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 507,
+    "TotalTimeInBed": 530
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 602,
+    "TotalTimeInBed": 638
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 535,
+    "TotalTimeInBed": 565
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 487,
+    "TotalTimeInBed": 517
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 529,
+    "TotalTimeInBed": 558
+  },
+  {
+    "Id": 4319703577,
+    "SleepDay": "5/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 302,
+    "TotalTimeInBed": 321
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 499,
+    "TotalTimeInBed": 526
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 426,
+    "TotalTimeInBed": 448
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 619,
+    "TotalTimeInBed": 641
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 99,
+    "TotalTimeInBed": 104
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 329,
+    "TotalTimeInBed": 338
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 421,
+    "TotalTimeInBed": 451
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 442,
+    "TotalTimeInBed": 458
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 82,
+    "TotalTimeInBed": 85
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 478,
+    "TotalTimeInBed": 501
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 3,
+    "TotalMinutesAsleep": 552,
+    "TotalTimeInBed": 595
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 319,
+    "TotalTimeInBed": 346
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 439,
+    "TotalTimeInBed": 500
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 428,
+    "TotalTimeInBed": 458
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 409,
+    "TotalTimeInBed": 430
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 547,
+    "TotalTimeInBed": 597
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 368,
+    "TotalTimeInBed": 376
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 390,
+    "TotalTimeInBed": 414
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 471,
+    "TotalTimeInBed": 495
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 471,
+    "TotalTimeInBed": 495
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 472,
+    "TotalTimeInBed": 496
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 529,
+    "TotalTimeInBed": 541
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 62,
+    "TotalTimeInBed": 65
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 354,
+    "TotalTimeInBed": 375
+  },
+  {
+    "Id": 4388161847,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 469,
+    "TotalTimeInBed": 494
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 429,
+    "TotalTimeInBed": 457
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 370,
+    "TotalTimeInBed": 406
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 441,
+    "TotalTimeInBed": 492
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 337,
+    "TotalTimeInBed": 379
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 462,
+    "TotalTimeInBed": 499
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 98,
+    "TotalTimeInBed": 107
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 388,
+    "TotalTimeInBed": 424
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 439,
+    "TotalTimeInBed": 462
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 436,
+    "TotalTimeInBed": 469
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 388,
+    "TotalTimeInBed": 417
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 328,
+    "TotalTimeInBed": 345
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 353,
+    "TotalTimeInBed": 391
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 332,
+    "TotalTimeInBed": 374
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 419,
+    "TotalTimeInBed": 442
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 106,
+    "TotalTimeInBed": 108
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 322,
+    "TotalTimeInBed": 353
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 439,
+    "TotalTimeInBed": 459
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 502,
+    "TotalTimeInBed": 542
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 417,
+    "TotalTimeInBed": 450
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 337,
+    "TotalTimeInBed": 363
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 462,
+    "TotalTimeInBed": 513
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 374,
+    "TotalTimeInBed": 402
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 401,
+    "TotalTimeInBed": 436
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 361,
+    "TotalTimeInBed": 391
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 457,
+    "TotalTimeInBed": 533
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 405,
+    "TotalTimeInBed": 426
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 499,
+    "TotalTimeInBed": 530
+  },
+  {
+    "Id": 4445114986,
+    "SleepDay": "5/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 483,
+    "TotalTimeInBed": 501
+  },
+  {
+    "Id": 4558609924,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 126,
+    "TotalTimeInBed": 137
+  },
+  {
+    "Id": 4558609924,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 103,
+    "TotalTimeInBed": 121
+  },
+  {
+    "Id": 4558609924,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 171,
+    "TotalTimeInBed": 179
+  },
+  {
+    "Id": 4558609924,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 115,
+    "TotalTimeInBed": 129
+  },
+  {
+    "Id": 4558609924,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 123,
+    "TotalTimeInBed": 134
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 425,
+    "TotalTimeInBed": 439
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 400,
+    "TotalTimeInBed": 430
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 384,
+    "TotalTimeInBed": 415
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 253,
+    "TotalTimeInBed": 257
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 382,
+    "TotalTimeInBed": 406
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 591,
+    "TotalTimeInBed": 612
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 293,
+    "TotalTimeInBed": 312
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 457,
+    "TotalTimeInBed": 487
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 454,
+    "TotalTimeInBed": 468
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 425,
+    "TotalTimeInBed": 434
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 465,
+    "TotalTimeInBed": 475
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 480,
+    "TotalTimeInBed": 506
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 370,
+    "TotalTimeInBed": 380
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 421,
+    "TotalTimeInBed": 429
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 432,
+    "TotalTimeInBed": 449
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 442,
+    "TotalTimeInBed": 461
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 433,
+    "TotalTimeInBed": 447
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 479,
+    "TotalTimeInBed": 501
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 327,
+    "TotalTimeInBed": 373
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 412,
+    "TotalTimeInBed": 434
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 414,
+    "TotalTimeInBed": 428
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 404,
+    "TotalTimeInBed": 449
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 520,
+    "TotalTimeInBed": 543
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 520,
+    "TotalTimeInBed": 543
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 435,
+    "TotalTimeInBed": 458
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 416,
+    "TotalTimeInBed": 431
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 354,
+    "TotalTimeInBed": 366
+  },
+  {
+    "Id": 4702921684,
+    "SleepDay": "5/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 404,
+    "TotalTimeInBed": 442
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 441,
+    "TotalTimeInBed": 464
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 455,
+    "TotalTimeInBed": 488
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 357,
+    "TotalTimeInBed": 418
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 377,
+    "TotalTimeInBed": 409
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 651,
+    "TotalTimeInBed": 686
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 350,
+    "TotalTimeInBed": 402
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 520,
+    "TotalTimeInBed": 541
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 357,
+    "TotalTimeInBed": 410
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 658,
+    "TotalTimeInBed": 678
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 399,
+    "TotalTimeInBed": 431
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 322,
+    "TotalTimeInBed": 353
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 631,
+    "TotalTimeInBed": 725
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 553,
+    "TotalTimeInBed": 640
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 433,
+    "TotalTimeInBed": 468
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 412,
+    "TotalTimeInBed": 453
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 347,
+    "TotalTimeInBed": 391
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 421,
+    "TotalTimeInBed": 457
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 450,
+    "TotalTimeInBed": 495
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 775,
+    "TotalTimeInBed": 843
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 622,
+    "TotalTimeInBed": 686
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 409,
+    "TotalTimeInBed": 471
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 380,
+    "TotalTimeInBed": 429
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 447,
+    "TotalTimeInBed": 470
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 419,
+    "TotalTimeInBed": 464
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 400,
+    "TotalTimeInBed": 434
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 442,
+    "TotalTimeInBed": 470
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 568,
+    "TotalTimeInBed": 608
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 453,
+    "TotalTimeInBed": 494
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 418,
+    "TotalTimeInBed": 443
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 463,
+    "TotalTimeInBed": 486
+  },
+  {
+    "Id": 5553957443,
+    "SleepDay": "5/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 438,
+    "TotalTimeInBed": 475
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 419,
+    "TotalTimeInBed": 438
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 432,
+    "TotalTimeInBed": 458
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 477,
+    "TotalTimeInBed": 497
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 392,
+    "TotalTimeInBed": 413
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 406,
+    "TotalTimeInBed": 445
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 549,
+    "TotalTimeInBed": 583
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 527,
+    "TotalTimeInBed": 553
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 449,
+    "TotalTimeInBed": 465
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 447,
+    "TotalTimeInBed": 480
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 414,
+    "TotalTimeInBed": 437
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 338,
+    "TotalTimeInBed": 366
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 384,
+    "TotalTimeInBed": 402
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 543,
+    "TotalTimeInBed": 615
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 421,
+    "TotalTimeInBed": 461
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 354,
+    "TotalTimeInBed": 377
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 424,
+    "TotalTimeInBed": 452
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 361,
+    "TotalTimeInBed": 372
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 459,
+    "TotalTimeInBed": 485
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 412,
+    "TotalTimeInBed": 433
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 379,
+    "TotalTimeInBed": 398
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 525,
+    "TotalTimeInBed": 553
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 508,
+    "TotalTimeInBed": 543
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 603,
+    "TotalTimeInBed": 634
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 74,
+    "TotalTimeInBed": 78
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 504,
+    "TotalTimeInBed": 562
+  },
+  {
+    "Id": 5577150313,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 431,
+    "TotalTimeInBed": 476
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 380,
+    "TotalTimeInBed": 398
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 336,
+    "TotalTimeInBed": 350
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 493,
+    "TotalTimeInBed": 510
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 465,
+    "TotalTimeInBed": 492
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 474,
+    "TotalTimeInBed": 502
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 508,
+    "TotalTimeInBed": 550
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 480,
+    "TotalTimeInBed": 546
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 492,
+    "TotalTimeInBed": 539
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 353,
+    "TotalTimeInBed": 367
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 542,
+    "TotalTimeInBed": 557
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 393,
+    "TotalTimeInBed": 416
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 600,
+    "TotalTimeInBed": 636
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 507,
+    "TotalTimeInBed": 575
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 392,
+    "TotalTimeInBed": 415
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 658,
+    "TotalTimeInBed": 698
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 498,
+    "TotalTimeInBed": 507
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 555,
+    "TotalTimeInBed": 603
+  },
+  {
+    "Id": 6117666160,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 492,
+    "TotalTimeInBed": 522
+  },
+  {
+    "Id": 6775888955,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 235,
+    "TotalTimeInBed": 260
+  },
+  {
+    "Id": 6775888955,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 423,
+    "TotalTimeInBed": 441
+  },
+  {
+    "Id": 6775888955,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 391,
+    "TotalTimeInBed": 406
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 366,
+    "TotalTimeInBed": 387
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 3,
+    "TotalMinutesAsleep": 630,
+    "TotalTimeInBed": 679
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 508,
+    "TotalTimeInBed": 535
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 370,
+    "TotalTimeInBed": 386
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 357,
+    "TotalTimeInBed": 366
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 427,
+    "TotalTimeInBed": 446
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 442,
+    "TotalTimeInBed": 458
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 476,
+    "TotalTimeInBed": 535
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 418,
+    "TotalTimeInBed": 424
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 451,
+    "TotalTimeInBed": 457
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 425,
+    "TotalTimeInBed": 435
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 528,
+    "TotalTimeInBed": 546
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 511,
+    "TotalTimeInBed": 514
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 400,
+    "TotalTimeInBed": 415
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 441,
+    "TotalTimeInBed": 446
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 455,
+    "TotalTimeInBed": 467
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 440,
+    "TotalTimeInBed": 453
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 433,
+    "TotalTimeInBed": 447
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 422,
+    "TotalTimeInBed": 424
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 411,
+    "TotalTimeInBed": 426
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 466,
+    "TotalTimeInBed": 482
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 394,
+    "TotalTimeInBed": 418
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 442,
+    "TotalTimeInBed": 455
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 467,
+    "TotalTimeInBed": 491
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 443,
+    "TotalTimeInBed": 462
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 298,
+    "TotalTimeInBed": 334
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 541,
+    "TotalTimeInBed": 569
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 489,
+    "TotalTimeInBed": 497
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 469,
+    "TotalTimeInBed": 481
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 452,
+    "TotalTimeInBed": 480
+  },
+  {
+    "Id": 6962181067,
+    "SleepDay": "5/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 516,
+    "TotalTimeInBed": 535
+  },
+  {
+    "Id": 7007744171,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 79,
+    "TotalTimeInBed": 82
+  },
+  {
+    "Id": 7007744171,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 58,
+    "TotalTimeInBed": 61
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 514,
+    "TotalTimeInBed": 525
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 451,
+    "TotalTimeInBed": 465
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 472,
+    "TotalTimeInBed": 476
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 377,
+    "TotalTimeInBed": 386
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 472,
+    "TotalTimeInBed": 483
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 492,
+    "TotalTimeInBed": 502
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 390,
+    "TotalTimeInBed": 411
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 428,
+    "TotalTimeInBed": 448
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 681,
+    "TotalTimeInBed": 704
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 446,
+    "TotalTimeInBed": 447
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 485,
+    "TotalTimeInBed": 500
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 469,
+    "TotalTimeInBed": 479
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 354,
+    "TotalTimeInBed": 367
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 485,
+    "TotalTimeInBed": 489
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 388,
+    "TotalTimeInBed": 407
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 440,
+    "TotalTimeInBed": 459
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 456,
+    "TotalTimeInBed": 461
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 420,
+    "TotalTimeInBed": 436
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 322,
+    "TotalTimeInBed": 333
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 530,
+    "TotalTimeInBed": 548
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 481,
+    "TotalTimeInBed": 510
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 427,
+    "TotalTimeInBed": 438
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 451,
+    "TotalTimeInBed": 463
+  },
+  {
+    "Id": 7086361926,
+    "SleepDay": "5/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 444,
+    "TotalTimeInBed": 457
+  },
+  {
+    "Id": 8053475328,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 486,
+    "TotalTimeInBed": 493
+  },
+  {
+    "Id": 8053475328,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 331,
+    "TotalTimeInBed": 337
+  },
+  {
+    "Id": 8053475328,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 74,
+    "TotalTimeInBed": 75
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 338,
+    "TotalTimeInBed": 356
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 447,
+    "TotalTimeInBed": 487
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 424,
+    "TotalTimeInBed": 455
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 513,
+    "TotalTimeInBed": 533
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/16/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 611,
+    "TotalTimeInBed": 689
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/17/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 525,
+    "TotalTimeInBed": 591
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/18/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 398,
+    "TotalTimeInBed": 451
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/19/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 387,
+    "TotalTimeInBed": 421
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 381,
+    "TotalTimeInBed": 409
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/21/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 396,
+    "TotalTimeInBed": 417
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 441,
+    "TotalTimeInBed": 469
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 565,
+    "TotalTimeInBed": 591
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/24/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 458,
+    "TotalTimeInBed": 492
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 388,
+    "TotalTimeInBed": 402
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/25/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 388,
+    "TotalTimeInBed": 402
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/26/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 550,
+    "TotalTimeInBed": 584
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 531,
+    "TotalTimeInBed": 600
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 506,
+    "TotalTimeInBed": 556
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 527,
+    "TotalTimeInBed": 562
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 468,
+    "TotalTimeInBed": 555
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 475,
+    "TotalTimeInBed": 539
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 351,
+    "TotalTimeInBed": 385
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 405,
+    "TotalTimeInBed": 429
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 441,
+    "TotalTimeInBed": 477
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/5/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 381,
+    "TotalTimeInBed": 417
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/6/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 323,
+    "TotalTimeInBed": 355
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/7/2016 12:00:00 AM",
+    "TotalSleepRecords": 2,
+    "TotalMinutesAsleep": 459,
+    "TotalTimeInBed": 513
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/8/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 545,
+    "TotalTimeInBed": 606
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/9/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 359,
+    "TotalTimeInBed": 399
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/10/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 342,
+    "TotalTimeInBed": 391
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/11/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 368,
+    "TotalTimeInBed": 387
+  },
+  {
+    "Id": 8378563200,
+    "SleepDay": "5/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 496,
+    "TotalTimeInBed": 546
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/12/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 458,
+    "TotalTimeInBed": 493
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/13/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 531,
+    "TotalTimeInBed": 552
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/14/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 486,
+    "TotalTimeInBed": 503
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/15/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 363,
+    "TotalTimeInBed": 377
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/20/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 528,
+    "TotalTimeInBed": 547
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/22/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 391,
+    "TotalTimeInBed": 407
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/23/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 339,
+    "TotalTimeInBed": 360
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/27/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 423,
+    "TotalTimeInBed": 428
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/28/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 402,
+    "TotalTimeInBed": 416
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/29/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 398,
+    "TotalTimeInBed": 406
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "4/30/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 343,
+    "TotalTimeInBed": 360
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "5/1/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 503,
+    "TotalTimeInBed": 527
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "5/2/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 415,
+    "TotalTimeInBed": 423
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "5/3/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 516,
+    "TotalTimeInBed": 545
+  },
+  {
+    "Id": 8792009665,
+    "SleepDay": "5/4/2016 12:00:00 AM",
+    "TotalSleepRecords": 1,
+    "TotalMinutesAsleep": 439,
+    "TotalTimeInBed": 463
+  }
+]
