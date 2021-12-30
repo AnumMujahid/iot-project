@@ -8,28 +8,30 @@ import Sidebar from './Sidebar';
 firebase.initializeApp(config);
 const db = getDatabase();
 function App() {
-  // Define the state of the component
+  //store data from table
   const [bpm, setBpm] = useState({});
+  //store data from column
+  const [avgBpm, setAvgBpm] = useState([]);
 
-  // Listen to changes on the firebase database, specifically the "distance" entry
-  // useEffect(() => {
-  //   const starCountRef = ref(db, 'bpm');
-  //   onValue(starCountRef, (snapshot) => {
-  //     const data = snapshot.val();
-  //     setBpm(data);
-  //     console.log(data);
-  //     // updateStarCount(postElement, data);
-  //   });
-  // }, []);
+  useEffect(() => {
+    const bpmRef = ref(db, 'bpm');
+    //snapshot keeps data updated
+    onValue(bpmRef, (snapshot) => {
+      const data = snapshot.val();
+      setBpm(data); //set data from table
+      const updatedAvgBpmArray = [];
+      for (const [key, value] of Object.entries(data)) {
+        updatedAvgBpmArray.push(value.avgBpm);
+      }
+      setAvgBpm(updatedAvgBpmArray); //set data from column
+    });
+  }, []);
 
   return (
     <div>
       <Sidebar />
-      {/* {bpm?.map((bpm_) => (
-        <p>
-          <span>{bpm_}</span>
-        </p>
-      ))} */}
+      {console.log(bpm)}
+      {console.log(avgBpm)}
     </div>
   );
 }
