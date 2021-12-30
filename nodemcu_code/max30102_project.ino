@@ -9,12 +9,12 @@ MAX30105 particleSensor;
 WiFiClient client;    
 
 //Wifi Settings
-const char *ssid =  "EVO-Charji-1EFD"; //Wi-Fi Username
-const char *pass =  "J35E538F"; //Wi-Fi Password
+const char *ssid =  "<YOUR_WIFI_USERNAME>"; //Wi-Fi Username
+const char *pass =  "<YOUR_WIFI_PASSWORD>"; //Wi-Fi Password
 
 //Firebase Settings
-#define FIREBASE_HOST "iot-project-iot-default-rtdb.firebaseio.com" //Firebase realtime database url
-#define FIREBASE_AUTH "G54Qh6ij4XmjZxZH1MG8Dpw1ACxbW3jbhfZ5UfKv" //Firebase realtime database secret
+#define FIREBASE_HOST "<YOUR_DATABASE_URL>" //Firebase realtime database url
+#define FIREBASE_AUTH "<YOUR_DATABASE_SECRET>" //Firebase realtime database secret
 
 FirebaseData firebaseData;
 
