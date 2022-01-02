@@ -36,11 +36,15 @@ export default function Sidebar() {
         <Toolbar />
         <List>
           <Link to="/" style={{ color: 'black', textDecoration: 'none' }}>
-            <ListItem button key={'logo'}>
+            <ListItem
+              button
+              key={'logo'}
+              style={{ fontSize: '24px', fontWeight: '700' }}
+            >
               <ListItemIcon style={{ color: 'black' }}>
                 <LocalHospitalIcon />
               </ListItemIcon>
-              <ListItemText primary={'Fitness Tracker'} />
+              <p>FITNESS TRACKER</p>
             </ListItem>
           </Link>
         </List>
