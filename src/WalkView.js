@@ -43,7 +43,7 @@ const WalkView = () => {
       style={{
         width: '1000px',
         height: '900px',
-        margin: 'auto auto auto 350px',
+        margin: 'auto auto auto 250px',
       }}
     >
       <div style={{ width: '500px', margin: '50px auto' }}>
