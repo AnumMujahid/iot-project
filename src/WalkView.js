@@ -8,26 +8,26 @@ import BarChart from './BarChart';
 
 firebase.initializeApp(config);
 const db = getDatabase();
-const BpmView = () => {
+const WalkView = () => {
   //store data from table
-  const [bpmArray, setBpmArray] = useState({});
+  const [walkArray, setWalkArray] = useState({});
   //store data from column
-  const [bpm, setBpm] = useState([]);
+  const [steps, setSteps] = useState([]);
   const [timeStamp, setTimeStamp] = useState([]);
 
   useEffect(() => {
-    const bpmRef = ref(db, 'bpm');
+    const walkRef = ref(db, 'walk');
     //snapshot keeps data updated
-    onValue(bpmRef, (snapshot) => {
+    onValue(walkRef, (snapshot) => {
       const data = snapshot.val();
-      setBpmArray(data); //set data from table
-      const updatedBpmArray = [];
+      setWalkArray(data); //set data from table
+      const updatedStepsArray = [];
       const updatedTimeStampArray = [];
       for (const [key, value] of Object.entries(data)) {
-        updatedBpmArray.push(value.bpm);
-        updatedTimeStampArray.push(moment(value.timestamp).format('LLLL'));
+        updatedStepsArray.push(value.StepTotal);
+        updatedTimeStampArray.push(moment(value.ActivityDay).format('LL'));
       }
-      setBpm(updatedBpmArray); //set data from column
+      setSteps(updatedStepsArray); //set data from column
       setTimeStamp(updatedTimeStampArray);
     });
   }, []);
@@ -48,18 +48,14 @@ const BpmView = () => {
     >
       <div style={{ width: '500px', margin: '50px auto' }}>
         <BarChart
-          text="Pulse Rate"
-          dataSet={[60, calculateAverage(bpm), 100]}
-          labelSet={[
-            'Minimum Pulse Rate',
-            'Average Pulse Rate',
-            'Maximum Pulse Rate',
-          ]}
+          text="Steps Per Day"
+          dataSet={[calculateAverage(steps), '10000']}
+          labelSet={['Average Steps Per Day', 'Minimum Steps for Adults']}
         />
       </div>
-      <LineChart dataSet={bpm} labelSet={timeStamp} text={'Pulse Rate'} />
+      <LineChart dataSet={steps} labelSet={timeStamp} text="Steps Per Day"/>
     </div>
   );
 };
 
-export default BpmView;
+export default WalkView;

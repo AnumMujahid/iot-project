@@ -3,25 +3,24 @@ import {
   Chart as ChartJS,
   CategoryScale,
   LinearScale,
-  PointElement,
-  LineElement,
+  BarElement,
   Title,
   Tooltip,
   Legend,
 } from 'chart.js';
-import { Line } from 'react-chartjs-2';
+import { Bar } from 'react-chartjs-2';
 
 ChartJS.register(
   CategoryScale,
   LinearScale,
-  PointElement,
-  LineElement,
+  BarElement,
   Title,
   Tooltip,
   Legend
 );
 
-const LineChart = ({ dataSet, labelSet, text }) => {
+const BarChart = ({ dataSet, labelSet, text }) => {
+  const labels = labelSet;
   const options = {
     responsive: true,
     plugins: {
@@ -34,24 +33,17 @@ const LineChart = ({ dataSet, labelSet, text }) => {
       },
     },
   };
-  const labels = labelSet;
   const data = {
     labels,
     datasets: [
       {
         label: 'Dataset 1',
         data: dataSet,
-        borderColor: 'rgb(0, 0, 0)',
         backgroundColor: 'rgba(0, 0, 0, 0.8)',
       },
     ],
   };
-  return (
-    <div>
-      {console.log(dataSet)}
-      <Line options={options} data={data} />
-    </div>
-  );
+  return <Bar options={options} data={data} />;
 };
 
-export default LineChart;
+export default BarChart;
