@@ -4,15 +4,11 @@ import Drawer from '@mui/material/Drawer';
 import CssBaseline from '@mui/material/CssBaseline';
 import Toolbar from '@mui/material/Toolbar';
 import List from '@mui/material/List';
-import Typography from '@mui/material/Typography';
 import Divider from '@mui/material/Divider';
 import ListItem from '@mui/material/ListItem';
 import ListItemIcon from '@mui/material/ListItemIcon';
 import ListItemText from '@mui/material/ListItemText';
-import InboxIcon from '@mui/icons-material/MoveToInbox';
-import MailIcon from '@mui/icons-material/Mail';
-
-import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
+import FavoriteIcon from '@mui/icons-material/Favorite';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DirectionsRunIcon from '@mui/icons-material/DirectionsRun';
 import HotelIcon from '@mui/icons-material/Hotel';
@@ -52,8 +48,8 @@ export default function Sidebar() {
         <List>
           <Link to="/" style={{ color: 'black', textDecoration: 'none' }}>
             <ListItem button key={'pulse-rate'}>
-              <ListItemIcon style={{ color: 'black' }}>
-                <FavoriteBorderIcon />
+              <ListItemIcon style={{ color: 'red' }}>
+                <FavoriteIcon />
               </ListItemIcon>
               <ListItemText primary={'Pulse Rate'} />
             </ListItem>
